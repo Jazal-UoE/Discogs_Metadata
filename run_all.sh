@@ -18,13 +18,6 @@ wget -O discogs_releases.xml.gz $RELEASES_URL
 wget -O discogs_masters.xml.gz $MASTERS_URL
 wget -O discogs_labels.xml.gz $LABELS_URL
 
-# Unzip the downloaded files
-echo "Unzipping downloaded files..."
-gunzip discogs_artists.xml.gz
-gunzip discogs_releases.xml.gz
-gunzip discogs_masters.xml.gz
-gunzip discogs_labels.xml.gz
-
 # Clone the discogs-xml2db repository
 echo "Cloning discogs-xml2db repository..."
 git clone https://github.com/philipmat/discogs-xml2db.git
