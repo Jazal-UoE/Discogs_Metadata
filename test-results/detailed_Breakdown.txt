@@ -1,0 +1,7 @@
+Detailed Breakdown:
+Total number of songs: 6712
+Number of songs with composer information: 1250
+Number of songs with lyricist information: 974
+Number of songs with both composer and lyricist information: 625
+Number of unique composers: 442
+Number of unique lyricists: 330
