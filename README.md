@@ -19,5 +19,5 @@ Before running the Python scripts, you may need to install the required Python p
 4. **Run the Script**:
    Execute the run_all.sh script:
 
-  ```bash
-  ./run_all.sh
+   ```bash
+   ./run_all.sh
